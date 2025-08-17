@@ -56,9 +56,7 @@ export default function Footer() {
         </div>
         
         <div className="border-t border-gray-800 mt-8 sm:mt-12 pt-6 sm:pt-8 text-center">
-          <p className="text-gray-400 text-sm sm:text-base">
-            © 2024 CarCare Auto Detailing & Repair. All rights reserved. | Colombo, Sri Lanka
-          </p>
+          <p>&copy; 2025 Mortor Elite. All rights reserved. Made by <a className="nav-link d-inline p-0 text-white" href="https://www.devrious.lk/" target="_blank" rel="noopener">Devrious</a></p>
         </div>
       </div>
     </footer>
